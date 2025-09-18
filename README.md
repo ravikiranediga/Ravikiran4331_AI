@@ -8,22 +8,21 @@
 
 A calculator game in Python is a fun and interactive way to learn programming while performing basic arithmetic operations. It combines the functionality of a calculator with a playful twist, making it engaging for beginners. Here's a brief description of what such a game might include:
 
-Core Features:
+# Core Features:
 
 Perform basic operations like addition, subtraction, multiplication, and division.
 Optionally include advanced operations like modulus, exponentiation, or square roots.
-Game-Like Elements:
-
-Challenges: Present random math problems for the player to solve.
+# Game-Like Elements:
+ Challenges: Present random math problems for the player to solve.
 Scoring System: Award points for correct answers and deduct points for incorrect ones.
 Timer: Add a time limit to solve each problem for an extra challenge.
 Levels: Increase difficulty as the player progresses (e.g., larger numbers or more complex operations).
-Implementation:
+# Implementation:
 
 Use Python's input/output functions to interact with the player.
 Randomize numbers using the random module for dynamic gameplay.
 Optionally, create a GUI version using libraries like tkinter or pygame for a more visual experience.
-Example Gameplay:
+# Example Gameplay:
 
 The game starts by asking the player to choose an operation or solve a random problem.
 The player inputs their answer, and the game provides feedback (e.g., "Correct!" or "Try again!").
